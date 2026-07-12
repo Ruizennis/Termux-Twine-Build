@@ -9,7 +9,7 @@
 ### Aware: Certain commands like twine check may not work **however** commands like twine upload dist/* or python -m build should have full functionality
 
 ## Quick Start Guide
-### Install the package, it should then install twine and its dependencys then uninstall the unneeded package.
+### Install the package, it should then install twine and its dependencies then uninstall the unneeded package.
 ```python
 pip install termux-twine-build && pip uninstall termux-twine-build
 ```
@@ -19,13 +19,13 @@ pip install termux-twine-build && pip uninstall termux-twine-build
 ```bash
 python -m build
 ```
-#### Ex: uploading to pypi
+#### Ex: uploading to PyPi
 ```bash
 twine upload dist/*
 ```
 ## Links!
 ### Create an issue [Here](https://github.com/Ruizennis/Termux-Twine-Build/issues)!
 
-### View the pypi package [Here](https://pypi.org/project/termux-twine-build/)!
+### View the PyPi package [Here](https://pypi.org/project/termux-twine-build/)!
 ___
-# Project is licensed under the Mit license, see [LICENSE](LICENSE).
+# Project is licensed under the MIT license, see [LICENSE](LICENSE).
