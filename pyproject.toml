@@ -22,7 +22,8 @@ dependencies = [
     "packaging>=26.2",
     "urllib3>=2.7.0",
     "pkginfo>=1.12.0",
-    "tqdm>=4.67.0",  
+    "tqdm>=4.67.0",
+    "docutils>=0.23",  
 ]
 
 
