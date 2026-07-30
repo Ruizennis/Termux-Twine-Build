@@ -1,6 +1,6 @@
 [project]
 name = "termux-twine-build"
-version = "0.2.1"
+version = "0.2.2"
 description = "A version of twine and build compatable with Termux"
 authors = [{name = "Ruizennis"}]
 readme = "README.md"
