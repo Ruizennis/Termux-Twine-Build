@@ -6,7 +6,9 @@
 
 
 ## This package installs multiple pip packages that allow twine and build to work on Termux
-### Aware: Certain commands like twine check may not work **however** commands like twine upload dist/* or python -m build should have full functionality
+
+> [!CAUTION]
+> This has worked for me but had not been bug tested beyond my own daily use (build, upload, check)
 
 ## Quick Start Guide
 ### Install the package, it should then install twine and its dependencies then uninstall the unneeded package.
